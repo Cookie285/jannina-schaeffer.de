@@ -16,21 +16,21 @@ sidebar:
     email: jannina.schaeffer@gmx.de
     website: jannina-schaeffer.de #do not add http://
     linkedin: janninaschaeffer
-    pdf: https://jurios.de/wp/wp-content/uploads/2024/08/Lebenslauf-6_2024.pdf
 
     languages:
       title: Themenschwerpunkte
       info:
         - idiom: Recht
-          level: (Urteilsbesprechungen, Rechtsnews, Justiz)
+          level: Urteilsbesprechungen, Rechtsnews, Justiz
 
         - idiom: Juristische Ausbildung
-          level: (Jurastudium, Referendariat, Reform, Didaktik)
+          level: Jurastudium, Referendariat, Reform, Didaktik
 
         - idiom: Kanzleimarketing
-          level: (Website-Texte, SEO, Social Media, Kanzleiblog, Ghostwriting) 
+          level: Website-Texte, SEO, Social Media, Kanzleiblog, Ghostwriting 
           
         - idiom: Law and Literature
+          level:
 
 career-profile:
     title: Über mich
@@ -40,7 +40,7 @@ career-profile:
 education:
     title: Ausbildung
     info:
-      - degree: Doktorin der Rechte (dr. Jur.)
+      - degree: Doktorin der Rechte (Dr. Jur.)
         university: Deutsche Hochschule der Polizei
         time: 2024
         
@@ -121,10 +121,10 @@ projects:
       Eine kleine Auswahl meiner letzten Zeitschriftenbeiträge.
     assignments:
       - title: RÜ 06/2024, 305-307       
-        tagline: "Schäffer, Auslobung: Bielefeld? Gibt's doch gar nicht!"
+        tagline: "Auslobung: Bielefeld? Gibt's doch gar nicht!"
 
       - title: RÜ 05/2024, 254-258
-        tagline: "Schäffer, Tanktop-Verbot im Fitnessstudio diskriminiert Männer!"
+        tagline: "Tanktop-Verbot im Fitnessstudio diskriminiert Männer!"
 
       - title: RÜ 04/2024, 211-214     
         tagline: "Die Wegnahme eines E-Bikes als Pfand begründet keinen Raub, sondern eine räuberische Erpressung"
