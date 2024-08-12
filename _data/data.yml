@@ -31,6 +31,7 @@ sidebar:
           level: (Website-Texte, SEO, Social Media, Kanzleiblog, Ghostwriting) 
           
         - idiom: Law and Literature
+          level:
 
     interests:
       title: Interests
@@ -64,7 +65,7 @@ education:
         university: Universität Tübingen
         time: 2017
 
-   - degree: Zertifizierte Social Media Managerin
+      - degree: Zertifizierte Social Media Managerin
         university: Cologne Business School
         time: 2016
 
@@ -189,19 +190,19 @@ publications:
       - title: Hamburger Protokoll Vier Thesen für eine Reform des Jurastudiums
         link: "https://rsw.beck.de/aktuell/daily/meldung/detail/hamburger-protokoll-vier-thesen-reform-jurastudium"
 
-       - title: Jurafachschaften wollen’s wissen Zwischen Ausbildungsreform und Diversität
+      - title: Jurafachschaften wollen’s wissen Zwischen Ausbildungsreform und Diversität
         link: "https://rsw.beck.de/aktuell/daily/meldung/detail/jurafachschaften-ausbildungsreform-diversitaet-umfragen"
 
-       - title: Der unsichtbare Dritte
+      - title: Der unsichtbare Dritte
         link: "https://www.lto.de/karriere/jura-referendariat/stories/detail/bverwg-6b1323-unbekannt-dritter-zwilling-examen-staatsexamen-jpa-nrw-taeuschung"
 
-       - title: Prüfer dürfen ihre Meinung ändern
+      - title: Prüfer dürfen ihre Meinung ändern
         link: "https://www.lto.de/karriere/jura-referendariat/stories/detail/bverwg-6b1223-pruefung-examen-anfechtung-klausur-benotung-note-bewertung-korrektur"
 
-       - title: Auf Konzeptpapier verfassen Examensklausur zählt nicht
+      - title: Auf Konzeptpapier verfassen Examensklausur zählt nicht
         link: "https://www.lto.de/karriere/jura-studium/stories/detail/vg-muenchen-m4k224098-klausur-examen-konzeptpapier-null-punkte-ungenuegend"
 
-       - title: Kampfjet gegen Kaltgetränk – Netflix-Doku „Pepsi, wo ist mein Jet?"
+      - title: Kampfjet gegen Kaltgetränk – Netflix-Doku „Pepsi, wo ist mein Jet?"
         link: "https://www.lto.de/recht/feuilleton/f/netflix-dokumentation-serie-pepsi-wo-ist-mein-jet-rechtsstreit-usa-scherzerklaerung/"
 
 skills:
