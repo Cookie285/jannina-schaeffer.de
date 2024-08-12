@@ -33,6 +33,18 @@ sidebar:
           
         - idiom: Law and Literature
 
+    interests:
+      title: Interests
+      info:
+        - item: Climbing
+          link:
+
+        - item: Snowboarding
+          link:
+
+        - item: Cooking
+          link:
+
 career-profile:
     title: Über mich
     summary: |
@@ -66,22 +78,59 @@ experiences:
         company: Fachmedien Recht und Wirtschaft
         details: |
           Klappentext: Das vorliegende Werk untersucht erstmals die Bezüge zwischen dem deutschen Recht und dem Rechtssystem in den Harry-Potter-Büchern. Es gehört damit zu der aus dem anglo-amerikanischen Rechtsraum stammenden Querschnittsdisziplin „Law and Literature“. Literarische Werke erschaffen oftmals nicht nur neue fiktive Rechtssysteme, sondern setzten sich häufig auch kritisch mit gesellschaftlichen Problemen auseinander – beides geschieht auf ganz besondere Art und Weise in der Buchreihe von J.K. Rowling. 
-
-Rowling selbst schafft es wie kaum eine andere Person, eine Welt zu erdenken, die über ein vollständiges politisches System verfügt und nach ihren ganz eigenen Regeln funktioniert. An der Spitze dieser magischen Welt steht das Zaubereiministerium, eine kafkaeske Behörde mit einem aufgeblasenen Bürokratieapparat, die für viel Unrecht verantwortlich ist. Es gelten eigene Gesetze – wie beispielsweise das „Zaubereiverbot Minderjähriger“ oder das „Internationale Geheimhaltungsabkommen“, aber auch Gesetze, die Minderheiten wie bspw. Kobolde gezielt diskriminieren. Als Gericht fungiert ein mit Laien besetztes Gremium, der Zaubergamot. 
-
-Es stellt sich also die Frage: Was sind das für Gesetze, an die sich alle Hexen und Zauberer halten müssen? Welche Besonderheiten gibt es insbesondere im magischen Strafrecht im Vergleich zu unserer Rechtsordnung? 
-
-Jannina Schäffer begibt sich auf eine fantastische Spurensuche und stellt erstmals das Rechtssystem der Harry-Potter-Welt umfassend dar. Im Rahmen einer rechtsvergleichenden Analyse stellt sie das deutsche Recht dem Recht der Zauberer gegenüber. Dabei bezieht sie auch das historische NS-(Un-)Recht von 1933 bis 1945 in ihre Betrachtung mit ein, denn Parallelen zwischen der Machtergreifung Adolf Hitlers und dem Aufstieg Lord Voldemorts sind in der Literaturwissenschaft allgemein anerkannt. Ein Schwerpunkt des Werks liegt auf dem materiellen und prozessualen Strafrecht sowie der Untersuchung, inwiefern das historische und fiktive (Un-)Recht beiden Diktatoren zur Macht verhalf.
+          Rowling selbst schafft es wie kaum eine andere Person, eine Welt zu erdenken, die über ein vollständiges politisches System verfügt und nach ihren ganz eigenen Regeln funktioniert. An der Spitze dieser magischen Welt steht das Zaubereiministerium, eine kafkaeske Behörde mit einem aufgeblasenen Bürokratieapparat, die für viel Unrecht verantwortlich ist. Es gelten eigene Gesetze – wie beispielsweise das „Zaubereiverbot Minderjähriger“ oder das „Internationale Geheimhaltungsabkommen“, aber auch Gesetze, die Minderheiten wie bspw. Kobolde gezielt diskriminieren. Als Gericht fungiert ein mit Laien besetztes Gremium, der Zaubergamot. Es stellt sich also die Frage: Was sind das für Gesetze, an die sich alle Hexen und Zauberer halten müssen? Welche Besonderheiten gibt es insbesondere im magischen Strafrecht im Vergleich zu unserer Rechtsordnung? 
+          Jannina Schäffer begibt sich auf eine fantastische Spurensuche und stellt erstmals das Rechtssystem der Harry-Potter-Welt umfassend dar. Im Rahmen einer rechtsvergleichenden Analyse stellt sie das deutsche Recht dem Recht der Zauberer gegenüber. Dabei bezieht sie auch das historische NS-(Un-)Recht von 1933 bis 1945 in ihre Betrachtung mit ein, denn Parallelen zwischen der Machtergreifung Adolf Hitlers und dem Aufstieg Lord Voldemorts sind in der Literaturwissenschaft allgemein anerkannt. Ein Schwerpunkt des Werks liegt auf dem materiellen und prozessualen Strafrecht sowie der Untersuchung, inwiefern das historische und fiktive (Un-)Recht beiden Diktatoren zur Macht verhalf.
            
       - role: Survival Guide Jura
         time: März 2024
         company: Brill/Schöningh, UTB-Verlag
         details: |
           Klappentext: Wer Jura studiert, fragt sich am Anfang zwangsläufig: Wie sieht die erste Woche an der Uni aus und wie organisiere ich meinen Lernalltag? Welche Finanzierungsmöglichkeiten gibt es? Muss ich wirklich jede Vorlesung besuchen? Wie lerne ich richtig und wie funktioniert eigentlich dieser „Gutachtenstil“, von dem alle reden? Wie bestehe ich die erste Hausarbeit und Klausur und was tun gegen Prüfungsstress? Und nicht zuletzt: Was hat die Uni sonst noch so zu bieten?
-
-In diesem etwas anderen Ratgeber beantwortet ein Autorenteam aus Studierenden, Praktiker:innen und Professor:innen diese Fragen – mit praktischen Tipps, viel Humor und Perspektivenvielfalt. Sie teilen ihr Erfahrungswissen und bewahren mit ihren „Dos & Don‘ts“ vor dem ein oder anderen Fehltritt. Denn oft genug haben sie sich selbst im Studium gedacht: Wenn ich das mal vorher gewusst hätte… 
+          In diesem etwas anderen Ratgeber beantwortet ein Autorenteam aus Studierenden, Praktiker:innen und Professor:innen diese Fragen – mit praktischen Tipps, viel Humor und Perspektivenvielfalt. Sie teilen ihr Erfahrungswissen und bewahren mit ihren „Dos & Don‘ts“ vor dem ein oder anderen Fehltritt. Denn oft genug haben sie sich selbst im Studium gedacht: Wenn ich das mal vorher gewusst hätte… 
 
      
+
+
+certifications:
+      title: Certifications
+      list:
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Zeitschriftenbeiträge
@@ -103,6 +152,25 @@ projects:
       - title: RÜ 04/2024, 181-183
         tagline: "Undichtes Terrassendach als Sachmangel – Aufklärungspflicht, sonst Arglist!"
 
+
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Online Veröffentlichungen
@@ -141,7 +209,28 @@ publications:
 
  - title: Kampfjet gegen Kaltgetränk – Netflix-Doku: „Pepsi, wo ist mein Jet?"
         link: "https://www.lto.de/recht/feuilleton/f/netflix-dokumentation-serie-pepsi-wo-ist-mein-jet-rechtsstreit-usa-scherzerklaerung/"
+        
+skills:
+    title: Skills &amp; Proficiency
 
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
