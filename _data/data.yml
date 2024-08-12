@@ -8,258 +8,141 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Jannina Schäffer
+    tagline: Juristin, Lehrbeauftragte, Autorin, freie Journalistin
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: jannina.schaeffer[at]gmx.de
+    website: jannina-schaeffer.de #do not add http://
+    blog: jurios.de #neu programmieren?
+    linkedin: janninaschaeffer
+    pdf: https://jurios.de/wp/wp-content/uploads/2024/08/Lebenslauf-6_2024.pdf
 
     languages:
-      title: Languages
+      title: Themenschwerpunkte
       info:
-        - idiom: English
-          level: Native
+        - idiom: Recht
+          level: (Urteilsbesprechungen, Rechtsnews, Justiz)
 
-        - idiom: French
-          level: Professional
+        - idiom: Juristische Ausbildung
+          level: (Jurastudium, Referendariat, Reform, Didaktik)
 
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+        - idiom: Kanzleimarketing
+          level: (Website-Texte, SEO, Social Media, Kanzleiblog, Ghostwriting) 
+          
+        - idiom: Law and Literature
 
 career-profile:
-    title: Career Profile
+    title: Über mich
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Die Volljuristin Jannina Schäffer promovierte berufsbegleitend an der Deutschen Hochschule der Polizei (DHPol) und arbeitete währenddessen als persönliche Referentin am Landtag von  Baden-Württemberg. Sie ist Lehrbeauftragte für Strafrecht an der FernUni Hagen und Gründerin sowie Chefredakteurin des Online Magazins „JURios“ (www.jurios.de). Heute ist sie für ein juristisches Repetitorium tätig, verfasst Zeitschriftenbeiträge und schreibt unter anderem für LTO sowie beck-aktuell. Sie ist Herausgeberin des im UTB-Verlag erschienen Ratgebers „Survival Guide Jura“. Ihre Dissertation "Harry Potter und die Gesetze der Macht" erschien 2024 im Verlag Fachmedien Recht und Wirtschaft und wurde sofort zu einem Bestseller.
+
 education:
-    title: Education
+    title: Ausbildung
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Doktorin der Rechte (dr. Jur.)
+        university: Deutsche Hochschule der Polizei
+        time: 2024
+        
+      - degree: Zweites juristisches Staatsexamen
+        university: OLG-Bezirk Stuttgart
+        time: 2019
+
+      - degree: Erstes juristisches Staatsexamen
+        university: Universität Tübingen
+        time: 2017
+
+   - degree: Zertifizierte Social Media Managerin
+        university: Cologne Business School
+        time: 2016
+     
 
 experiences:
-    title: Experiences
+    title: Bücher #Button durch Buch ersetzen und Bild einfügen
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Harry Potter und die Gesetze der Macht
+        time: Juli 2024
+        company: Fachmedien Recht und Wirtschaft
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Klappentext: Das vorliegende Werk untersucht erstmals die Bezüge zwischen dem deutschen Recht und dem Rechtssystem in den Harry-Potter-Büchern. Es gehört damit zu der aus dem anglo-amerikanischen Rechtsraum stammenden Querschnittsdisziplin „Law and Literature“. Literarische Werke erschaffen oftmals nicht nur neue fiktive Rechtssysteme, sondern setzten sich häufig auch kritisch mit gesellschaftlichen Problemen auseinander – beides geschieht auf ganz besondere Art und Weise in der Buchreihe von J.K. Rowling. 
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+Rowling selbst schafft es wie kaum eine andere Person, eine Welt zu erdenken, die über ein vollständiges politisches System verfügt und nach ihren ganz eigenen Regeln funktioniert. An der Spitze dieser magischen Welt steht das Zaubereiministerium, eine kafkaeske Behörde mit einem aufgeblasenen Bürokratieapparat, die für viel Unrecht verantwortlich ist. Es gelten eigene Gesetze – wie beispielsweise das „Zaubereiverbot Minderjähriger“ oder das „Internationale Geheimhaltungsabkommen“, aber auch Gesetze, die Minderheiten wie bspw. Kobolde gezielt diskriminieren. Als Gericht fungiert ein mit Laien besetztes Gremium, der Zaubergamot. 
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+Es stellt sich also die Frage: Was sind das für Gesetze, an die sich alle Hexen und Zauberer halten müssen? Welche Besonderheiten gibt es insbesondere im magischen Strafrecht im Vergleich zu unserer Rechtsordnung? 
+
+Jannina Schäffer begibt sich auf eine fantastische Spurensuche und stellt erstmals das Rechtssystem der Harry-Potter-Welt umfassend dar. Im Rahmen einer rechtsvergleichenden Analyse stellt sie das deutsche Recht dem Recht der Zauberer gegenüber. Dabei bezieht sie auch das historische NS-(Un-)Recht von 1933 bis 1945 in ihre Betrachtung mit ein, denn Parallelen zwischen der Machtergreifung Adolf Hitlers und dem Aufstieg Lord Voldemorts sind in der Literaturwissenschaft allgemein anerkannt. Ein Schwerpunkt des Werks liegt auf dem materiellen und prozessualen Strafrecht sowie der Untersuchung, inwiefern das historische und fiktive (Un-)Recht beiden Diktatoren zur Macht verhalf.
+           
+      - role: Survival Guide Jura
+        time: März 2024
+        company: Brill/Schöningh, UTB-Verlag
+        details: |
+          Klappentext: Wer Jura studiert, fragt sich am Anfang zwangsläufig: Wie sieht die erste Woche an der Uni aus und wie organisiere ich meinen Lernalltag? Welche Finanzierungsmöglichkeiten gibt es? Muss ich wirklich jede Vorlesung besuchen? Wie lerne ich richtig und wie funktioniert eigentlich dieser „Gutachtenstil“, von dem alle reden? Wie bestehe ich die erste Hausarbeit und Klausur und was tun gegen Prüfungsstress? Und nicht zuletzt: Was hat die Uni sonst noch so zu bieten?
+
+In diesem etwas anderen Ratgeber beantwortet ein Autorenteam aus Studierenden, Praktiker:innen und Professor:innen diese Fragen – mit praktischen Tipps, viel Humor und Perspektivenvielfalt. Sie teilen ihr Erfahrungswissen und bewahren mit ihren „Dos & Don‘ts“ vor dem ein oder anderen Fehltritt. Denn oft genug haben sie sich selbst im Studium gedacht: Wenn ich das mal vorher gewusst hätte… 
+
+     
 
 projects:
-    title: Projects
+    title: Zeitschriftenbeiträge
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Eine kleine Auswahl meiner letzten Zeitschriftenbeiträge.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: RÜ 06/2024, 305-307       
+        tagline: "Schäffer, Auslobung: Bielefeld? Gibt's doch gar nicht!"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: RÜ 05/2024, 254-258
+        tagline: "Schäffer, Tanktop-Verbot im Fitnessstudio diskriminiert Männer!"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: RÜ 04/2024, 211-214     
+        tagline: "Die Wegnahme eines E-Bikes als Pfand begründet keinen Raub, sondern eine räuberische Erpressung"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: RÜ 04/2024, 188-190
+        tagline: "Anforderung an die Rechtzeitigkeit der Einwilligung beim Behandlungsvertrag"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: RÜ 04/2024, 181-183
+        tagline: "Undichtes Terrassendach als Sachmangel – Aufklärungspflicht, sonst Arglist!"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Online Veröffentlichungen
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Diese Artikel habe ich in den letzten Monaten online veröffentlicht.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Tipps vom Prüfer: So klappt’s mit dem mündlichen Examen
+        link: "https://rsw.beck.de/aktuell/daily/meldung/detail/tipps-examen-muendliche-pruefung"
+        
+      - title: iurserioes: Digitale Kampagne gegen Ausbildungsbeschluss der JuMiKo
+        link: "https://rsw.beck.de/aktuell/daily/meldung/detail/iurserious-digitale-kampagne-gegen-den-ausbildungsbeschluss-der-jumiko"
+      
+      - title: Recht vielfältig: Neues Jura-Netzwerk für Erstakademiker
+        link: "https://rsw.beck.de/aktuell/daily/meldung/detail/jurastudium-recht-vielfaeltig-neues-jura-netzwerk-fuer-erstakademiker"
+       
+ - title: Türen, Tore, Treppenaufgänge – "Zugänge zum Recht" als Kunstprojekt
+        link: "https://rsw.beck.de/aktuell/daily/meldung/detail/zugaenge-zum-recht-kunstprojekt-goellektiv-juristentag"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+ - title: Das Prädikat als Zufallsprodukt
+        link: "https://www.lto.de/karriere/im-job/stories/detail/studium-jura-klausur-note-korrektor-studie-staatsexamen-examen"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+ - title: Hamburger Protokoll: Vier Thesen für eine Reform des Jurastudiums
+        link: "https://rsw.beck.de/aktuell/daily/meldung/detail/hamburger-protokoll-vier-thesen-reform-jurastudium"
 
-skills:
-    title: Skills &amp; Proficiency
+ - title: Jurafachschaften wollen’s wissen: Zwischen Ausbildungsreform und Diversität
+        link: "https://rsw.beck.de/aktuell/daily/meldung/detail/jurafachschaften-ausbildungsreform-diversitaet-umfragen"
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+ - title: Der unsichtbare Dritte
+        link: "https://www.lto.de/karriere/jura-referendariat/stories/detail/bverwg-6b1323-unbekannt-dritter-zwilling-examen-staatsexamen-jpa-nrw-taeuschung"
 
-      - name: Javascript & jQuery
-        level: 98%
+ - title: Prüfer dürfen ihre Meinung ändern
+        link: "https://www.lto.de/karriere/jura-referendariat/stories/detail/bverwg-6b1223-pruefung-examen-anfechtung-klausur-benotung-note-bewertung-korrektur"
 
-      - name: Angular
-        level: 98%
+ - title: Auf Konzeptpapier verfassen Examensklausur zählt nicht
+        link: "https://www.lto.de/karriere/jura-studium/stories/detail/vg-muenchen-m4k224098-klausur-examen-konzeptpapier-null-punkte-ungenuegend"
 
-      - name: HTML5 & CSS
-        level: 95%
+ - title: Kampfjet gegen Kaltgetränk – Netflix-Doku: „Pepsi, wo ist mein Jet?"
+        link: "https://www.lto.de/recht/feuilleton/f/netflix-dokumentation-serie-pepsi-wo-ist-mein-jet-rechtsstreit-usa-scherzerklaerung/"
 
-      - name: Ruby on Rails
-        level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
