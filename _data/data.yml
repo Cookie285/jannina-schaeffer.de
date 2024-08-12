@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jannina.schaeffer[at]gmx.de
+    email: jannina.schaeffer@gmx.de
     website: jannina-schaeffer.de #do not add http://
     blog: jurios.de #neu programmieren?
     linkedin: janninaschaeffer
@@ -68,7 +68,6 @@ education:
    - degree: Zertifizierte Social Media Managerin
         university: Cologne Business School
         time: 2016
-     
 
 experiences:
     title: Bücher #Button durch Buch ersetzen und Bild einfügen
@@ -87,9 +86,6 @@ experiences:
         details: |
           Klappentext: Wer Jura studiert, fragt sich am Anfang zwangsläufig: Wie sieht die erste Woche an der Uni aus und wie organisiere ich meinen Lernalltag? Welche Finanzierungsmöglichkeiten gibt es? Muss ich wirklich jede Vorlesung besuchen? Wie lerne ich richtig und wie funktioniert eigentlich dieser „Gutachtenstil“, von dem alle reden? Wie bestehe ich die erste Hausarbeit und Klausur und was tun gegen Prüfungsstress? Und nicht zuletzt: Was hat die Uni sonst noch so zu bieten?
           In diesem etwas anderen Ratgeber beantwortet ein Autorenteam aus Studierenden, Praktiker:innen und Professor:innen diese Fragen – mit praktischen Tipps, viel Humor und Perspektivenvielfalt. Sie teilen ihr Erfahrungswissen und bewahren mit ihren „Dos & Don‘ts“ vor dem ein oder anderen Fehltritt. Denn oft genug haben sie sich selbst im Studium gedacht: Wenn ich das mal vorher gewusst hätte… 
-
-     
-
 
 certifications:
       title: Certifications
@@ -152,7 +148,6 @@ projects:
       - title: RÜ 04/2024, 181-183
         tagline: "Undichtes Terrassendach als Sachmangel – Aufklärungspflicht, sonst Arglist!"
 
-
 oss:
     title: OSS Contributions
     intro: >
@@ -186,28 +181,28 @@ publications:
       - title: Recht vielfältig Neues Jura-Netzwerk für Erstakademiker
         link: "https://rsw.beck.de/aktuell/daily/meldung/detail/jurastudium-recht-vielfaeltig-neues-jura-netzwerk-fuer-erstakademiker"
        
- - title: Türen, Tore, Treppenaufgänge – "Zugänge zum Recht" als Kunstprojekt
+      - title: Türen, Tore, Treppenaufgänge – "Zugänge zum Recht" als Kunstprojekt
         link: "https://rsw.beck.de/aktuell/daily/meldung/detail/zugaenge-zum-recht-kunstprojekt-goellektiv-juristentag"
 
- - title: Das Prädikat als Zufallsprodukt
+      - title: Das Prädikat als Zufallsprodukt
         link: "https://www.lto.de/karriere/im-job/stories/detail/studium-jura-klausur-note-korrektor-studie-staatsexamen-examen"
 
- - title: Hamburger Protokoll Vier Thesen für eine Reform des Jurastudiums
+      - title: Hamburger Protokoll Vier Thesen für eine Reform des Jurastudiums
         link: "https://rsw.beck.de/aktuell/daily/meldung/detail/hamburger-protokoll-vier-thesen-reform-jurastudium"
 
- - title: Jurafachschaften wollen’s wissen Zwischen Ausbildungsreform und Diversität
+       - title: Jurafachschaften wollen’s wissen Zwischen Ausbildungsreform und Diversität
         link: "https://rsw.beck.de/aktuell/daily/meldung/detail/jurafachschaften-ausbildungsreform-diversitaet-umfragen"
 
- - title: Der unsichtbare Dritte
+       - title: Der unsichtbare Dritte
         link: "https://www.lto.de/karriere/jura-referendariat/stories/detail/bverwg-6b1323-unbekannt-dritter-zwilling-examen-staatsexamen-jpa-nrw-taeuschung"
 
- - title: Prüfer dürfen ihre Meinung ändern
+       - title: Prüfer dürfen ihre Meinung ändern
         link: "https://www.lto.de/karriere/jura-referendariat/stories/detail/bverwg-6b1223-pruefung-examen-anfechtung-klausur-benotung-note-bewertung-korrektur"
 
- - title: Auf Konzeptpapier verfassen Examensklausur zählt nicht
+       - title: Auf Konzeptpapier verfassen Examensklausur zählt nicht
         link: "https://www.lto.de/karriere/jura-studium/stories/detail/vg-muenchen-m4k224098-klausur-examen-konzeptpapier-null-punkte-ungenuegend"
 
- - title: Kampfjet gegen Kaltgetränk – Netflix-Doku „Pepsi, wo ist mein Jet?"
+       - title: Kampfjet gegen Kaltgetränk – Netflix-Doku „Pepsi, wo ist mein Jet?"
         link: "https://www.lto.de/recht/feuilleton/f/netflix-dokumentation-serie-pepsi-wo-ist-mein-jet-rechtsstreit-usa-scherzerklaerung/"
 
 skills:
